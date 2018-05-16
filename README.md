@@ -3,8 +3,6 @@
 ## How to run the game:
 
  - Download the project and open by double click index.html on your browser
-* OR
- - click here https://Liz001.github.io/arcade/
 
 ## How to play:
 
